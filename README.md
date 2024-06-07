@@ -1,4 +1,4 @@
-![image](https://github.com/NermeenKamal/Tic-Tac-Toe-Game/assets/114883845/cd6f7ad3-c4e6-4701-be37-b35f5db64e02)
+<img src="https://github.com/NermeenKamal/Tic-Tac-Toe-Game/assets/114883845/cd6f7ad3-c4e6-4701-be37-b35f5db64e02" width=630px>
 
 ---
 
